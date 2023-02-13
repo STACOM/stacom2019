@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Papers"
+    url: /papers/
+  - title: "Program"
+    url: /program/
+  - title: "Submission"
+    url: /submission/
+  - title: "Organisers"
+    url: /contact/
+
+# useful links
+sidelinks:
+  - title: Useful links
+    children:
+    - title: "MICCAI 2019"
+      url: https://miccai2019.org/
+    - title: "Previous STACOMs"
+      url: https://stacom.github.io/

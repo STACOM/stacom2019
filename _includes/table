@@ -1,0 +1,14 @@
+{% assign dt = site.data.[include.data] %}
+
+<h3 class="nav__sub-title">{{ dt.title }}</h3>
+
+<div>
+  <ul style="margin: 0; padding: 0;">
+    {% for row in dt.items %}
+      <li style="list-style: none;"><span><strong>
+        {{ row.item }}
+      </strong></span></li>
+      <li style="list-style: none; padding-left: 25px;">{{ row.text }}</li>
+    {% endfor %}
+  </ul>
+</div>

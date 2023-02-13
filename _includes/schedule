@@ -1,0 +1,38 @@
+|**8:00-8:35** | **Welcome**
+|**8:35-9:15** | **Disentangled representation learning in medical imaging**<br>Keynote speaker: Professor Sotirios A. Tsaftaris (University of Edinburgh, UK)<br><br>![image-left]({{ "/images/sotos.jpg" | relative_url }}){: style="width: 100px; float: left; border-radius: 30%; margin-right: 10px;"}The detection of disease, segmentation of anatomy and other classical analysis tasks, have seen incredible improvements due to deep learning. Yet these advances need lots of data: for every new task, new modality, new hospital more training data are needed. In this talk, I will show how deep neural networks can learn latent and disentangled embeddings suitable for several analysis tasks in the heart. Within a multi-task learning setting I will show that the same framework can learn embeddings drawing supervision from self-supervised tasks that use reconstruction and also temporal dynamics overall reducing considerably need for annotation. I will discuss how different architectural choices can solve key problems in multimodal data processing and critically also allow us to learn reducing need for image-level annotations by obtaining supervision also from text-based health records. I will conclude by highlighting challenges for deep learning in healthcare in general.
+| **9:15-10:30** | **Regular papers**
+| 9:15-9:27 | Assessing the Impact of Blood Pressure on Cardiac Function Using Interpretable Biomarkers and Variational Autoencoders (EP Anton, B Ruijsink, J Clough, I Oksuz, D Rueckert, R Razavi, A King)
+| 9:27-9:40 | A Cascade Regression Model for Anatomical Landmark Detection (Z Tan, Y Duan, Z Wu, J Feng, J Zhou)
+| 9:40-9:52 | Comparison of 2D Echocardiography and Cardiac Cine MRI in the Assessment of Regional Left Ventricular Wall Thickness (V van Hal, D Zhao, K Gilbert, TPB Gamage, C Mauger, RN Doughty, ME Legget, J Zhao, A Nalar, O Camara, AA Young, VY Wang, M Nash)
+| 9:52-10:05| Learning interactions between cardiac shape and deformation: application to pulmonary hypertension (M Di Folco, P Clarysse, P Moceri, N Duchateau​)
+| 10:05-10:17| Deep Learning Surrogate of Computational Fluid Dynamics for Thrombus Formation Risk in the Left Atrial Appendage (X Morales, J Mill, KA Juhl, A Olivares, G Jimenez-Perez, RR Paulsen, O Camara)
+| 10:17-10:30| Probabilistic Motion Modeling from Medical Image Sequences: Application to Cardiac Cine-MRI (J Krebs, T Mansi, N Ayache, H Delingette)
+| **10:30-10:45** | **Coffee break**
+| **10:45-12:00** | **CRT-EPIGGY19 Challenge** |
+| 10:45-11:00 | Best (and worst) practices for organizing a challenge on cardiac biophysical models during AI summer: the CRT-EPiggy19 challenge (O Camara)
+| 11:00-11:10 | Electrophysiological Model Personalisation to Porcine in-vivo Data for Paced Activation Prediction (​Cedilnik, M Sermesant)
+| 11:10-11:20 | Evaluation of meshless methods for cardiac electrophysiological simulations based on porcine experimental data (KA Mountris, E Pueyo​)
+| 11:20-11:30 | Prediction of electrical activation patterns after cardiac resynchronization therapy in porcine hearts with meshless models (C Albors, E Lluch, JM, R Doste, O Camara, M De Craene, H Morales​)
+| 11:30-11:40 | Prediction of CRT activation sequence by personalization of biventricular model from electroanatomical maps (JF Gomez, B Trenor, R Sebastian)
+| 11:40-11:50 | Optimization of CRT therapy device based on personalized computer model (S Khamzin, A Dokuchaev, O Solovyova)
+| 11:50-12:00 | Challenge wrap-up
+| **12:00-12:36** | **Regular poster teaser (2 min for each poster** |
+| **12:36-14:00** | **Lunch, poster presentation, scoring** |
+| **14:00-15:15** | **LV Full Quantification Challenge** |
+| 14:00-14:20 | Challenge data and description from the organizers
+| 14:20:14:30 | Left Ventricle Quantification Using Direct Regression with Segmentation Regularization and Ensembles of Pretrained 2D and 3D CNNs (N Gessert, A Schlaefer)
+| 14:30-14:40 | Left Ventricle Quantification with Cardiac MRI : Deep Learning Meets Statistical Models of Deformation (JC Acero, H Xu, E Zacur, J Schneider, P Lamata, A Bueno-Orovio, V Grau​)
+| 14:40-14:50 | Left Ventricular Parameter Regression From Deep Feature Maps of a Jointly Trained Segmentation CNN (S Tilborghs, F Maes​​)
+| 14:50-15:00 | A Two-Stages Temporal-Like Fully Convolutional Network Framework for Left Ventricle Segmentation (Z Zhao, N Boutry, E Puybareau, T Géraud)
+| 15:00-15:15 | Challenge wrap-up
+| **15:15-15:30** | **Coffee break**
+| **15:30-17:00** | **Multi-Sequence Cardiac MR Segmentation Challenge**
+| 15:30-15:40 | Challenge introduction |
+| 15:40-15:53 | Unsupervised Multi-modal Style Transfer for Cardiac MR Segmentation (C Chen, C Ouyang, G Tarroni, J Schlemper, H Qiu, W Bai, D Rueckert​)
+| 15:53-16:06 | Combining Multi-Sequence and Synthetic Images for Improved Segmentation of Late Gadolinium Enhanced Cardiac MRI (VM Campello, C Martin-Isla, CI Morcillo, MAG Ballester, K Lekadir​)
+| 16:06-16:19 | Multi-sequence Cardiac MR Segmentation with Adversarial Domain Adaptation Network (J Wang, H Huang, C Chen, W Ma, Y Huang, X Ding​)
+| 16:19-16:32 | SK-Unet: an Improved U-net Model with Selective Kernel for the Segmentation of Multi-sequence Cardiac MR​ (X Wang, S Yang, M Tang, Y Wei, X Han, L He, J Zhang​)
+| 16:32-16:45 | Automated Multi-sequence Cardiac MRI Segmentation Using Supervised Domain Adaptation​ (S Vesal, N Ravikumar, A Maier​)
+| 16:45-16:58 | Cardiac Segmentation of LGE MRI with Noisy Labels (H Roth, W Zhu, D Yang, Z Xu, D Xu​)
+| **17:00-17:15** | **Closing and awards**
+
